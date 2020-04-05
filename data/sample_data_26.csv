@@ -1,0 +1,7 @@
+date,sku,qty,full_name,address_1,address_2,city,state,zip,country,phone_number,tracking_number,record_number,user_id,email,item_number,transaction_id,price
+3/5/2020,SJX-TX-92,1,s_customer_58,real address_158,,Vernal,UT,84126,United States,(435) 790-2998,485000000000.0,10003587,test_user_180,test_email0201,223000000000.0,2240000000000.0,135.0
+3/5/2020,289-TX-74,1,s_customer_102,real address_202,,Vernal,UT,84170,United States,(435) 790-3042,485000000000.0,10003587,test_user_224,test_email0245,223000000000.0,2240000000000.0,148.0
+3/5/2020,AX-8886,1,s_customer_252,real address_352,,Vernal,UT,84320,United States,(435) 790-3192,485000000000.0,10003587,test_user_374,test_email0395,223000000000.0,2240000000000.0,148.0
+3/5/2020,AX-8802,1,s_customer_283,real address_383,,Vernal,UT,84351,United States,(435) 790-3223,485000000000.0,10003587,test_user_405,test_email0426,223000000000.0,2240000000000.0,152.0
+3/5/2020,289-TX-86,1,s_customer_286,real address_386,,Vernal,UT,84354,United States,(435) 790-3226,485000000000.0,10003587,test_user_408,test_email0429,223000000000.0,2240000000000.0,148.0
+3/5/2020,SJX-TX-11,1,s_customer_301,real address_401,,Vernal,UT,84369,United States,(435) 790-3241,485000000000.0,10003587,test_user_423,test_email0444,223000000000.0,2240000000000.0,136.0

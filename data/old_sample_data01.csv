@@ -1,0 +1,23 @@
+date,sku,qty,full_name,address_1,address_2,city,state,zip,country,phone_number,tracking_number,record_number,user_id,email,item_number,transaction_id,price
+3/31/2020,289-TX-11,1,s_customer_01,real address_101,,Forest Hill,MD,21050-1002,United States,(410) 692-2101,4.84602E+11,19231,test_user_123,test_email0144,3.24E+11,2.05E+12,129.92
+3/31/2020,289-TX-86,1,s_customer_02,real address_102,,Ashdown,AR,71822,United States,(870) 904-8901,4.84601E+11,19229,test_user_124,test_email0145,2.23E+11,2.24E+12,134.43
+3/31/2020,289-TX-92,1,s_customer_03,real address_103,,Clinton,TN,37716-5715,United States,(865) 660-5407,4.84602E+11,19228,test_user_125,test_email0146,3.24E+11,2.05E+12,159.95
+3/31/2020,AX-8833,1,s_customer_04,real address_104,,Morris,GA,39867-5208,United States,(334) 695-2553,4.84602E+11,19233,test_user_126,test_email0147,2.23E+11,2.24E+12,133.33
+3/31/2020,SJX-TX-11,1,s_customer_05,real address_105,,Mahomet,IL,61853,United States,(217) 841-2002,4.84601E+11,10003582,test_user_127,test_email0148,,,133.33
+3/31/2020,SJX-TX-74,1,s_customer_06,real address_106,,Frisco,TX,75034-9475,United States,(214) 930-7605,4.84601E+11,10003583,test_user_128,test_email0149,,,133.33
+3/31/2020,289-TX-33,1,s_customer_07,real address_107,,Salinas,CA,93901-4355,United States,(831) 970-2412,4.84601E+11,10003584,test_user_129,test_email0150,,,133.33
+3/31/2020,289-TX-33,1,s_customer_08,real address_108,,Tavernier,FL,33070-2511,United States,(727) 557-6110,4.84602E+11,10003585,test_user_130,test_email0151,,,165
+3/31/2020,289-TX-69,1,s_customer_09,real address_109,Ste 3A,fort Bragg,CA,95437-9592,United States,(707) 357-2002,4.84601E+11,10003586,test_user_131,test_email0152,,,123
+3/31/2020,289-TX-69,1,s_customer_10,real address_110,,Vernal,UT,84078,United States,(435) 790-2950,4.84601E+11,10003587,test_user_132,test_email0153,,,155
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,, ,,,,,,,,,,,,,,

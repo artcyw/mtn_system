@@ -1,0 +1,11 @@
+date,sku,qty,full_name,address_1,address_2,city,state,zip,country,phone_number,tracking_number,record_number,user_id,email,item_number,transaction_id,price
+3/12/2020,AX-8886,1,s_customer_122,real address_222,,Vernal,UT,84190,United States,(435) 790-3062,485000000000.0,10003587,test_user_244,test_email0265,223000000000.0,2240000000000.0,137.0
+3/12/2020,289-TX-73,1,s_customer_187,real address_287,,Vernal,UT,84255,United States,(435) 790-3127,485000000000.0,10003587,test_user_309,test_email0330,223000000000.0,2240000000000.0,159.0
+3/12/2020,AX-8869,1,s_customer_188,real address_288,,Vernal,UT,84256,United States,(435) 790-3128,485000000000.0,10003587,test_user_310,test_email0331,223000000000.0,2240000000000.0,129.0
+3/12/2020,SJX-TX-11,1,s_customer_192,real address_292,,Vernal,UT,84260,United States,(435) 790-3132,485000000000.0,10003587,test_user_314,test_email0335,223000000000.0,2240000000000.0,158.0
+3/12/2020,289-TX-92,1,s_customer_219,real address_319,,Vernal,UT,84287,United States,(435) 790-3159,485000000000.0,10003587,test_user_341,test_email0362,223000000000.0,2240000000000.0,132.0
+3/12/2020,289-TX-78,1,s_customer_271,real address_371,,Vernal,UT,84339,United States,(435) 790-3211,485000000000.0,10003587,test_user_393,test_email0414,223000000000.0,2240000000000.0,133.0
+3/12/2020,SJX-TX-74,1,s_customer_281,real address_381,,Vernal,UT,84349,United States,(435) 790-3221,485000000000.0,10003587,test_user_403,test_email0424,223000000000.0,2240000000000.0,151.0
+3/12/2020,AX-8892,1,s_customer_291,real address_391,,Vernal,UT,84359,United States,(435) 790-3231,485000000000.0,10003587,test_user_413,test_email0434,223000000000.0,2240000000000.0,150.0
+3/12/2020,SJX-TX-86,1,s_customer_302,real address_402,,Vernal,UT,84370,United States,(435) 790-3242,485000000000.0,10003587,test_user_424,test_email0445,223000000000.0,2240000000000.0,136.0
+3/12/2020,289-TX-33,1,s_customer_376,real address_476,,Vernal,UT,84444,United States,(435) 790-3316,485000000000.0,10003587,test_user_498,test_email0519,223000000000.0,2240000000000.0,145.0

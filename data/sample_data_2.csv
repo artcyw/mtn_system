@@ -1,0 +1,12 @@
+date,sku,qty,full_name,address_1,address_2,city,state,zip,country,phone_number,tracking_number,record_number,user_id,email,item_number,transaction_id,price
+3/9/2020,AX-8833,1,s_customer_11,real address_111,,Vernal,UT,84079,United States,(435) 790-2951,485000000000.0,10003587,test_user_133,test_email0154,223000000000.0,2240000000000.0,150.0
+3/9/2020,289-TX-73,1,s_customer_32,real address_132,,Vernal,UT,84100,United States,(435) 790-2972,485000000000.0,10003587,test_user_154,test_email0175,223000000000.0,2240000000000.0,150.0
+3/9/2020,SJX-TX-11,1,s_customer_86,real address_186,,Vernal,UT,84154,United States,(435) 790-3026,485000000000.0,10003587,test_user_208,test_email0229,223000000000.0,2240000000000.0,134.0
+3/9/2020,SJX-TX-73,1,s_customer_92,real address_192,,Vernal,UT,84160,United States,(435) 790-3032,485000000000.0,10003587,test_user_214,test_email0235,223000000000.0,2240000000000.0,133.0
+3/9/2020,289-TX-77,1,s_customer_101,real address_201,,Vernal,UT,84169,United States,(435) 790-3041,485000000000.0,10003587,test_user_223,test_email0244,223000000000.0,2240000000000.0,131.0
+3/9/2020,AX-8873,1,s_customer_129,real address_229,,Vernal,UT,84197,United States,(435) 790-3069,485000000000.0,10003587,test_user_251,test_email0272,223000000000.0,2240000000000.0,136.0
+3/9/2020,AX-8833,1,s_customer_133,real address_233,,Vernal,UT,84201,United States,(435) 790-3073,485000000000.0,10003587,test_user_255,test_email0276,223000000000.0,2240000000000.0,130.0
+3/9/2020,289-TX-77,1,s_customer_181,real address_281,,Vernal,UT,84249,United States,(435) 790-3121,485000000000.0,10003587,test_user_303,test_email0324,223000000000.0,2240000000000.0,160.0
+3/9/2020,289-TX-77,1,s_customer_218,real address_318,,Vernal,UT,84286,United States,(435) 790-3158,485000000000.0,10003587,test_user_340,test_email0361,223000000000.0,2240000000000.0,154.0
+3/9/2020,SJX-TX-69,1,s_customer_251,real address_351,,Vernal,UT,84319,United States,(435) 790-3191,485000000000.0,10003587,test_user_373,test_email0394,223000000000.0,2240000000000.0,139.0
+3/9/2020,AX-8874,1,s_customer_331,real address_431,,Vernal,UT,84399,United States,(435) 790-3271,485000000000.0,10003587,test_user_453,test_email0474,223000000000.0,2240000000000.0,154.0
